@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Jyotishmoy Baruah 👋
+### MSc IT | Digital Strategist | SEO Specialist
 
-<!--
-**jyotishmoyboruah/jyotishmoyboruah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛠️ **Expertise:** Technical SEO Architecture, IT Systems, and Digital Product Design.
+- 🎨 **Creative Suite:** Expert in **Inkscape** (Vector) and **GIMP** (Raster) for professional assets.
+- 📈 **Digital Factory:** Building scalable SEO workflows and high-value PDF guides.
+- 🌍 **Focus:** Global Digital Solutions rooted in Upper Assam, India.
 
-Here are some ideas to get you started:
+---
+### 🛠️ Technical Toolbox
+- **SEO:** Site Audits, Keyword Research, Content Strategy.
+- **Design:** UI/UX Assets, Vector Illustration, Digital Publishing.
+- **IT:** Systems Analysis, Data Management (MSc IT - SMU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Blending 20+ years of IT logic with modern digital creativity."*
